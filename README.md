@@ -1,4 +1,4 @@
-```# IBM-LipNet
+# IBM-LipNet
 ## Abstract:
 LipNet: Visual Speech Recognition Using Deep Learning
 LipNet is a deep learning model designed for visual speech recognition by focusing on lip movements to transcribe spoken words from video sequences. It combines Convolutional Neural Networks (CNNs) for spatial feature extraction and Recurrent Neural Networks (RNNs) for temporal sequence modeling. This approach allows the model to track lip movements over time and generate accurate transcriptions, without relying on audio input.
@@ -32,5 +32,5 @@ LipNet has promising applications in several areas:
 
 ![ibm final word](https://github.com/user-attachments/assets/88fcc394-63bd-4af9-a7bf-c0f8f9756a5c)
 
-After running the LipNet model on the video sequence, the final output is the accurate transcription of spoken words based solely on lip movements. The transcribed text is shown in the image above.```
+After running the LipNet model on the video sequence, the final output is the accurate transcription of spoken words based solely on lip movements. The transcribed text is shown in the image above.
 
