@@ -6,6 +6,7 @@ LipNet is a deep learning model designed for visual speech recognition by focusi
 ## Overview:
 
 ![ibm centre](https://github.com/user-attachments/assets/0127ef12-d537-4e68-ac4a-681a11485a4b)
+
 LipNet leverages both CNNs and RNNs in an end-to-end model for visual speech recognition. It processes video sequences and transcribes lip movements into text without the need for audio signals. This has numerous potential applications in accessibility and voice recognition technologies.
 
 ## Features:
@@ -23,12 +24,13 @@ LipNet was originally trained on the GRID Corpus, which is publicly available an
 ## Applications:
 LipNet has promising applications in several areas:
 
-Accessibility for the Deaf and Hard of Hearing: Improves communication by providing visual-based speech transcription.
-Voice Recognition in Noisy Environments: Functions without reliance on audio, making it ideal for use in loud settings.
-Security and Surveillance: Can be used for silent speech recognition in security footage.
+*Accessibility for the Deaf and Hard of Hearing: Improves communication by providing visual-based speech transcription.
+*Voice Recognition in Noisy Environments: Functions without reliance on audio, making it ideal for use in loud settings.
+*Security and Surveillance: Can be used for silent speech recognition in security footage.
 
 ## Result:
 
 ![ibm final word](https://github.com/user-attachments/assets/88fcc394-63bd-4af9-a7bf-c0f8f9756a5c)
+
 After running the LipNet model on the video sequence, the final output is the accurate transcription of spoken words based solely on lip movements. The transcribed text is shown in the image above.
 
